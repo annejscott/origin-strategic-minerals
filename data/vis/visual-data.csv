@@ -1,0 +1,103 @@
+country,mineral,relationship,max_share,list,latitude,longitude
+Afghanistan,fluorspar,adversary,0.3,"chromium, fluorspar",33.93911,67.709953
+Albania,chromium,ally,2.5,"chromite, chromium, ferrochromium, nickel",41.153332,20.168331
+Algeria,zinc,ally,0,"barite, zinc",28.033886,1.659626
+Angola,manganese,neutral,0.2,manganese,-11.202692,17.873887
+Argentina,lithium,ally,4.1,"aluminum, barite, fluorspar, lithium, zinc",-38.416097,-63.616672
+Armenia,zinc,ally,0.1,zinc,40.069099,45.038189
+Australia,lithium,ally,43.3,"zirconium, aluminum, antimony, barite, cesium, cobalt, erbium, gadolinium, lithium, manganese, nickel, palladium, platinum, praseodymium, samarium, tantalum, terbium, thulium, tin, titanium, tungsten, ytterbium, zinc",-25.274398,133.775136
+Austria,tungsten,ally,1.1,"graphite, nickel, tungsten",47.516231,14.550072
+Azerbaijan,aluminum,ally,0,aluminum,40.143105,47.576927
+Bahrain,aluminum,neutral,2.3,aluminum,25.930414,50.637772
+Belgium,indium,ally,1.9,"arsenic, indium",50.503887,4.469936
+Bolivia,tin,ally,6,"antimony, arsenic, barite, bismuth, lithium, manganese, tungsten, zinc, tantalum, tin",-16.290154,-63.588653
+Bosnia and Herzegovina,aluminum,neutral,0.2,"zinc, aluminum, aluminum",43.915886,17.679076
+Brazil,niobium,ally,93.1,"tantalum, samarium, zirconium, aluminum, beryllium, chromite, chromium, cobalt, terbium, thulium, tin, titanium, tungsten, vanadium, zinc, tantalum, magnesium, manganese, nickel, niobium, praseodymium, dysprosium, erbium, europium, ferrochromium, fluorspar, gadolinium, graphite, lithium",-14.235004,-51.92528
+Bulgaria,tellurium,ally,0.4,"barite, bismuth, tellurium, zinc",42.733883,25.48583
+Burkina Faso,zinc,neutral,0.2,"manganese, zinc",12.238333,-1.561593
+Burundi,tantalum,neutral,0.3,"tungsten, niobium, tantalum, tin",-3.373056,29.918886
+Cameroon,aluminum,neutral,0.1,aluminum,7.369722,12.354722
+Canada,palladium,ally,8,"ruthenium, tellurium, titanium, zinc, cobalt, fluorspar, graphite, platinum, rhodium, antimony, barite, bismuth, cesium, iridium, nickel, niobium, indium, aluminum, palladium",56.130366,-106.346771
+Chile,lithium,ally,31.9,"zinc, lithium",-35.675147,-71.542969
+China,gallium,adversary,98.4,"aluminum, rubidium, samarium, scandium, tantalum, tellurium, terbium, thulium, antimony, arsenic, barite, beryllium, bismuth, praseodymium, cerium, chromite, chromium, cobalt, dysprosium, erbium, europium, tin, titanium, tungsten, vanadium, ytterbium, yttrium, hafnium, holmium, indium, lanthanum, lithium, lutetium, magnesium, manganese, neodymium, nickel, niobium, palladium, platinum, germanium, graphite, zinc, zirconium, gallium, ferrochromium, fluorspar, gadolinium",35.86166,104.195397
+Colombia,nickel,ally,1.3,"manganese, nickel, platinum",4.570868,-74.297333
+Congo,cobalt,ally,69.5,"cobalt, manganese, tungsten, zinc, zinc, tantalum, tin, niobium",-4.038333,21.758664
+Cuba,cobalt,adversary,2.2,"cobalt, chromium, nickel, zinc",21.521757,-77.781167
+Dominican Republic,nickel,ally,0.9,"zinc, nickel",18.735693,-70.162651
+Egypt,aluminum,neutral,0.4,"manganese, fluorspar, aluminum",26.820553,30.802498
+Eritrea,zinc,neutral,0.9,zinc,15.179384,39.782334
+Ethiopia,tantalum,ally,5.2,"niobium, platinum, tantalum, chromium",9.145,40.489673
+Finland,chromium,ally,2.6,"cobalt, ferrochromium, chromite, chromium, palladium, platinum, zinc, nickel",61.92411,25.748151
+France,indium,ally,1.9,"hafnium, indium, nickel, aluminum",46.227638,2.213749
+Gabon,manganese,ally,22.3,manganese,-0.803689,11.609444
+Georgia,manganese,ally,0.8,manganese,42.315407,43.356892
+Germany,fluorspar,ally,1.1,"aluminum, barite, hafnium, lutetium, rubidium, ytterbium, graphite, chromite, ferrochromium, fluorspar, holmium",51.165691,10.451526
+Ghana,manganese,ally,4.5,"aluminum, manganese",7.946527,-1.023194
+Greece,aluminum,ally,0.2,"nickel, zinc, aluminum",39.074208,21.824312
+Guatemala,nickel,ally,1.6,"nickel, antimony, barite",15.783471,-90.230759
+Guyana,manganese,ally,0.5,manganese,3.933889,-53.125782
+Guyana,manganese,ally,0.5,manganese,4.860416,-58.93018
+Honduras,zinc,ally,0.2,"zinc, antimony",15.199999,-86.241905
+Iceland,aluminum,ally,1.1,aluminum,64.963051,-19.020835
+India,chromium,ally,10.6,"aluminum, barite, erbium, europium, chromite, chromium, praseodymium, samarium, terbium, thulium, tin, titanium, vanadium, ferrochromium, fluorspar, gadolinium, graphite, manganese, zinc, zirconium",20.593684,78.96288
+Indonesia,nickel,ally,49,"chromite, nickel, zinc, zirconium, tin, titanium, aluminum, cobalt, ferrochromium",-0.789275,113.921327
+Iran,antimony,adversary,4.7,"chromite, barite, titanium, aluminum, antimony, ferrochromium, fluorspar, manganese, chromium, zinc",32.427908,53.688046
+Ireland,zinc,ally,0.8,zinc,53.41291,-8.24389
+Japan,tellurium,ally,10,"arsenic, bismuth, dysprosium, ferrochromium, cerium, chromite, lutetium, neodymium, nickel, scandium, tellurium, ytterbium, indium, gallium, germanium, holmium",36.204824,138.252924
+Kazakhstan,chromium,ally,12,"aluminum, chromite, chromium, fluorspar, magnesium, manganese, titanium, zinc, barite, bismuth, antimony, ferrochromium",48.019573,66.923684
+Kenya,titanium,neutral,3.1,"zirconium, titanium, manganese",-0.023559,37.906193
+Kosovo,zinc,ally,0,"zinc, nickel",42.602636,20.902977
+Kyrgyzstan,antimony,neutral,0,antimony,41.20438,74.766098
+Laos,tin,ally,0.4,"zinc, antimony, barite, bismuth, tin",19.85627,102.495496
+Madagascar,graphite,ally,6.8,"graphite, cobalt, titanium, graphite, beryllium, chromium, nickel, zirconium",-18.766947,46.869107
+Malaysia,manganese,ally,1.5,"neodymium, tantalum, tin, lanthanum, manganese, aluminum, titanium, zirconium, dysprosium",4.210484,101.975766
+Mexico,fluorspar,ally,20.1,"antimony, bismuth, cobalt, tungsten, barite, graphite, zinc, fluorspar, manganese",23.634501,-102.552784
+Mongolia,fluorspar,ally,4.2,"tin, fluorspar, tungsten, zinc",46.862496,103.846656
+Montenegro,zinc,ally,0.1,"zinc, aluminum",42.708678,19.374389999999998
+Morocco,arsenic,ally,9.7,"barite, zinc, arsenic, cobalt, nickel, fluorspar, manganese",31.791702,-7.09262
+Mozambique,titanium,ally,15.5,"beryllium, tantalum, aluminum, titanium, graphite, niobium, zirconium",-18.665695,35.529562
+Myanmar,tin,adversary,13.9,"zinc, antimony, barite, fluorspar, manganese, nickel, tin, tungsten, manganese, nickel, tin, tungsten, antimony",21.913965,95.956223
+Namibia,zinc,ally,0.3,"manganese, manganese, cesium, lithium, tantalum, tin, zinc",-22.95764,18.49041
+New Caledonia,nickel,neutral,6.2,"cobalt, nickel",-20.904305,165.618042
+New Zealand,aluminum,ally,0.5,aluminum,-40.900557,174.885971
+Nigeria,tantalum,ally,8.1,"fluorspar, beryllium, zirconium, lithium, zinc, barite, manganese, niobium, tantalum, tin, tungsten",9.081999,8.675277
+North Korea,tungsten,adversary,1.8,"graphite, fluorspar, graphite, tungsten, tungsten, zinc",40.339852,127.510093
+North Macedonia,zinc,ally,0.2,zinc,41.608635,21.745275
+Norway,titanium,ally,2.8,"graphite, aluminum, nickel, titanium",60.472024,8.468946
+Oman,chromium,ally,1.1,"aluminum, chromium, chromite, ferrochromium, manganese",21.512583,55.923255
+Pakistan,chromium,ally,0.5,"chromium, barite, fluorspar, manganese, zinc",30.375321,69.345116
+Papua New Guinea,cobalt,ally,1.8,"chromium, cobalt, nickel",-6.314993,143.95555
+Peru,arsenic,ally,45,"zinc, bismuth, tin, barite, indium, manganese, arsenic",-9.189967,-75.015152
+Philippines,nickel,ally,10.6,"nickel, chromium, cobalt",12.879721,121.774017
+Poland,nickel,ally,0,"nickel, palladium, platinum",51.919438,19.145136
+Portugal,zinc,ally,1.4,"zinc, lithium, tin, tungsten",39.399872,-8.224454
+Qatar,aluminum,ally,0.9,aluminum,25.354826,51.183884
+Romania,aluminum,ally,0.3,"manganese, zinc, aluminum",45.943161,24.96676
+Russia,palladium,adversary,40,"aluminum, tungsten, vanadium, zinc, antimony, gallium, germanium, graphite, indium, iridium, lithium, arsenic, barite, chromite, chromium, cobalt, ferrochromium, fluorspar, rubidium, ruthenium, tantalum, tellurium, tin, titanium, magnesium, manganese, nickel, niobium, palladium, platinum, rhodium, zirconium",61.52401,105.318756
+Rwanda,tantalum,ally,17.4,"tungsten, beryllium, niobium, tantalum, tin",-1.940278,29.873888
+Saudi Arabia,aluminum,ally,1.1,"zinc, aluminum",23.885942,45.079162
+Senegal,titanium,ally,3.2,"manganese, titanium, zirconium",14.497401,-14.452362
+Serbia,zinc,ally,0.1,"zinc, palladium, platinum",44.016521,21.005859
+Sierra Leone,titanium,ally,1.8,"tantalum, titanium, zirconium",8.460555,-11.779889
+Slovakia,aluminum,ally,0.1,"barite, aluminum, zinc",48.669026,19.699024
+Slovenia,aluminum,ally,0,aluminum,46.151241,14.995463
+South Africa,rhodium,ally,83,"aluminum, vanadium, chromium, zinc, zirconium, chromite, palladium, platinum, rhodium, ruthenium, tellurium, titanium, cobalt, europium, ferrochromium, fluorspar, iridium, manganese, nickel",-30.559482,22.937506
+South Korea,indium,ally,17.9,"lutetium, nickel, ytterbium, gallium, graphite, indium, titanium, zinc, holmium, bismuth, gallium, graphite, indium, scandium",35.907757,127.766922
+Spain,fluorspar,ally,1.7,"aluminum, dysprosium, fluorspar, tantalum, tin, tungsten, zinc",40.463667,-3.74922
+Sri Lanka,titanium,ally,0.2,"gadolinium, graphite, erbium, terbium, titanium, praseodymium, samarium, zirconium",7.873054,80.771797
+Sudan,chromium,neutral,0,"manganese, chromium",12.862807,30.217636
+Sweden,tellurium,ally,4.8,"chromite, aluminum, zinc, ferrochromium, tellurium",60.128161,18.643501
+Tajikistan,antimony,ally,17.5,"aluminum, zinc, antimony, fluorspar",38.861034,71.276093
+Tanzania,tin,ally,0.1,"graphite, thulium, tin",-6.369028,34.888822
+Thailand,fluorspar,ally,0.6,"tin, titanium, barite, fluorspar, manganese, tungsten",15.870032,100.992541
+Turkey,antimony,ally,12.8,"aluminum, antimony, barite, chromite, chromium, cobalt, ferrochromium, fluorspar, graphite, magnesium, manganese, nickel, titanium, zinc, zirconium",38.963745,35.243322
+Uganda,beryllium,ally,0.5,"beryllium, tantalum, tin, tungsten",1.373333,32.290275
+Ukraine,titanium,ally,2,"zirconium, graphite, magnesium, manganese, nickel, titanium",48.379433,31.16558
+United Arab Emirates,aluminum,ally,3.9,aluminum,23.424076,53.847818
+United Kingdom,fluorspar,ally,0.1,"fluorspar, aluminum, barite, nickel",55.378051,-3.435973
+United States,beryllium,ally,63.6,"germanium, platinum, praseodymium, rhodium, samarium, tellurium, terbium, thulium, titanium, holmium, lithium, lutetium, nickel, palladium, aluminum, barite, beryllium, cesium, cobalt, erbium, europium, gadolinium, ytterbium, zinc, zirconium",37.09024,-95.712891
+Uzbekistan,tellurium,ally,0.4,"bismuth, tellurium, graphite, indium, palladium, tungsten, zinc",41.377491,64.585262
+Venezuela,aluminum,neutral,0,aluminum,6.42375,-66.58973
+Vietnam,bismuth,ally,18.9,"barite, antimony, manganese, bismuth, fluorspar, graphite, zinc, tin, titanium, tungsten, zirconium",14.058324,108.277199
+Zambia,manganese,ally,0.3,"nickel, beryllium, cobalt, manganese",-13.133897,27.849332
+Zimbabwe,platinum,neutral,9,"cesium, chromite, chromium, cobalt, ferrochromium, graphite, iridium, lithium, nickel, palladium, platinum, rhodium, ruthenium, tungsten",-19.015438,29.154857
